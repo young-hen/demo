@@ -10,6 +10,7 @@ public class DemoController {
 
 
         System.out.println("new2");
+        System.out.println("new new ");
         return "hello";
     }
 
